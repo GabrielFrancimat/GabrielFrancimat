@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel Francimat 😁👌![MuaKissGIF](https://github.com/GabrielFrancimat/GabrielFrancimat/assets/110569686/bd3a824b-8a9a-4d25-bf4c-8a67dbe5af11)
+## Bem-vindo(a) ao perfil do Gabriel Francimat 😁🤓💻
 
 
  <div>
