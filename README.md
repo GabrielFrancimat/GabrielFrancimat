@@ -1,4 +1,8 @@
-## Oi tudo bem! Eu sou Gabriel Francimat e esse é o meu perfil 😁🤓💻
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Oi+tudo+bem!;Eu+sou+Gabriel+Francimat+😁🤓💻;" />
+</h1>
+
+
 ### Sou programador e busco oportunidades
 
 - 📘🖥️ Atualmente estou estudando Python, HTML, CSS e JavaScript
