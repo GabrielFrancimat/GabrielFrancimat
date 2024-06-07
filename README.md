@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Gabriel Francimat 😁🤓💻
+## Oi tudo bem, eu sou Gabriel Francimat e esse é o perfil 😁🤓💻
 ### Sou programador e busco oportunidades
 
 
