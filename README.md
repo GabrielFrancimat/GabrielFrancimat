@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil do Gabriel Francimat 😁🤓💻
+## Bem-vindo(a) ao perfil de Gabriel Francimat 😁🤓💻
+## Sou programador e busco oportunidades !
 
 
  <div>
