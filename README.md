@@ -6,7 +6,7 @@
 - 📘🖥️ Atualmente estou estudando Python, HTML, CSS e JavaScript
 - 📖 Terminando a Faculdade
 - 🔎 Estou em busca de um emprego!
-- ✅ Front-end, Web Developer, Programador
+- ✅ Front-end, Web Developer, Programador Junior
 - 😄 Pronome: Ele/Dele
 
 <br>
