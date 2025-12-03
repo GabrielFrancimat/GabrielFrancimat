@@ -4,7 +4,8 @@
 <br>
 
 - 📘🖥️ Atualmente estou estudando Python, HTML, CSS e JavaScript
-- 📖 Bacharel Cien~encia da Computação
+- 📖 Bacharel Ciência da Computação
+- 📗 Fazendo Pós: MBA Desenvolvedor FullStack e DevOps
 - 🔎 Estou em busca de um emprego como desenvolvedor Full-Stack!
 - ✅ Front-end, Web Developer, Programador Junior
 - 😄 Pronome: Ele/Dele
