@@ -4,8 +4,8 @@
 <br>
 
 - 📘🖥️ Atualmente estou estudando Python, HTML, CSS e JavaScript
-- 📖 Terminando a Faculdade
-- 🔎 Estou em busca de um emprego!
+- 📖 Bacharel Cien~encia da Computação
+- 🔎 Estou em busca de um emprego como desenvolvedor Full-Stack!
 - ✅ Front-end, Web Developer, Programador Junior
 - 😄 Pronome: Ele/Dele
 
